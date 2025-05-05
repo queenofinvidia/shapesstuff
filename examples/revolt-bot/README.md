@@ -46,28 +46,4 @@ The bot is pre-configured to use the Shapes API with the eunchae3-0ppi shape. If
 If you encounter issues:
 - Ensure your Revolt token is correct
 - Check that the bot has permissions to read and send messages
-- Verify your internet connection for API access
-
-# API Examples
-
-This repository contains example implementations for using various APIs.
-
-## Available Examples
-
-### Revolt Bot with Shapes.inc AI
-
-A chatbot for the Revolt platform that uses the Shapes.inc API to generate AI responses when tagged or messaged in DMs.
-
-- Located in: [examples/revolt-bot](examples/revolt-bot)
-- Features:
-  - Responds to mentions in channels
-  - Automatically responds to all DMs
-  - Uses Shapes.inc's eunchae3-0ppi shape for responses
-  - Handles reconnections gracefully
-
-## Adding More Examples
-
-Feel free to contribute additional examples by:
-1. Creating a new directory in the `examples` folder
-2. Adding necessary code and documentation
-3. Updating this README to include your example 
+- Verify your internet connection for API access 
